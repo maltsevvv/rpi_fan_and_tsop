@@ -1,4 +1,4 @@
-![prototype scheme](https://raw.githubusercontent.com/maltsevvv/rpi_fan_and_tsop48/master/fan_and_tsop.png) 
+![prototype scheme](https://raw.githubusercontent.com/maltsevvv/rpi_fan_and_tsop/master/fan_and_tsop48.png) 
 
 # LibreElec
 `mount -o remount, rw /flash` 
