@@ -22,7 +22,7 @@ dtoverlay=gpio-ir,gpio_pin=3
 
 ```
 # fan enable if temp 65C
-dtoverlay=gpio-fan,gpio_pin=14,temp=65000
+dtoverlay=gpio-fan,gpiopin=14,temp=65000
 ```
 ```
 # ir
