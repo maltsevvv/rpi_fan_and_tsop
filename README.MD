@@ -7,7 +7,7 @@
 
 ```
 # fan enable if temp 65C
-dtoverlay=gpio-fan,gpio_pin=14,temp=65000
+dtoverlay=gpio-fan,gpiopin=14,temp=65000
 ```
 ```
 # ir
