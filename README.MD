@@ -4,8 +4,8 @@
 `nano /flash/config.txt` 
 
 ```
-# fan
-dtoverlay=gpio-fan,gpio_pin=14,temp=60000
+# fan enable if temp 65C
+dtoverlay=gpio-fan,gpio_pin=14,temp=65000
 ```
 ```
 # ir
